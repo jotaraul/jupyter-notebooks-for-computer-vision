@@ -1,8 +1,8 @@
 # Jupyter notebooks for computer vision
 
-A collection of interactive documents designed with Jupyter Notebook covering fundamental topics from computer vision.
+Book in the form of a collection of interactive documents designed with Jupyter Notebook covering fundamental topics from **computer vision**.
 
-Developed by Antonio Manuel Burgueño, Jose Raul Ruiz Sarmiento, Francisco Angel Moreno, and Javier Gonzalez-Jimenez, all belonging to the Machine Perception and Intelligent Robotics group (MAPIR), University of Malaga (Spain).
+Developed by Antonio Manuel Burgueño, [Jose Raul Ruiz Sarmiento](http://mapir.isa.uma.es/jotaraul), [Francisco Angel Moreno](http://mapir.isa.uma.es/mapirwebsite/index.php/people/199-francisco-moreno-due%C3%B1as), and [Javier Gonzalez-Jimenez](http://mapir.isa.uma.es/mapirwebsite/index.php/people/95-javier-gonzalez-jimenez), all belonging to the [Machine Perception and Intelligent Robotics group (MAPIR)](http://mapir.isa.uma.es/mapirwebsite/), [University of Malaga](https://www.uma.es/) (Spain).
 
 # Topics covered
 
